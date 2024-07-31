@@ -1,0 +1,4 @@
+acceleration_x_min
+velocity_x_min
+coordinates_end_x
+coordinates_start_x

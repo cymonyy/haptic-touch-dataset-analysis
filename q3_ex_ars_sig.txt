@@ -1,0 +1,7 @@
+acceleration_y_mean
+acceleration_x_min
+velocity_y_mean
+velocity_x_min
+coordinates_end_x
+coordinates_start_y
+coordinates_start_x

@@ -1,0 +1,9 @@
+pressure
+acceleration_euclidean_min
+acceleration_x_min
+acceleration_x_mean
+acceleration_x_max
+velocity_x_mean
+velocity_x_max
+coordinates_end_y
+coordinates_start_y
