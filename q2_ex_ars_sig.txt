@@ -1,0 +1,11 @@
+duration
+touchCount
+pressure
+distance
+acceleration_euclidean_min
+acceleration_euclidean_max
+acceleration_x_max
+velocity_euclidean_min
+velocity_x_min
+coordinates_difference_x_abs
+coordinates_difference_y_abs

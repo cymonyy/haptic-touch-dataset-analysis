@@ -1,0 +1,16 @@
+touchCount
+distance
+acceleration_y_mean
+acceleration_y_max
+acceleration_euclidean_max
+acceleration_x_max
+velocity_y_min
+velocity_y_mean
+velocity_y_max
+velocity_euclidean_min
+velocity_euclidean_mean
+velocity_euclidean_max
+velocity_x_mean
+velocity_x_max
+coordinates_difference_x_abs
+coordinates_difference_y_abs
