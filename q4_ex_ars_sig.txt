@@ -1,3 +1,0 @@
-velocity_euclidean_min
-velocity_x_min
-coordinates_end_x

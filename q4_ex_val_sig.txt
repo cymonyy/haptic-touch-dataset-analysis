@@ -1,9 +1,0 @@
-acceleration_euclidean_min
-acceleration_x_min
-velocity_y_min
-velocity_euclidean_min
-velocity_euclidean_mean
-coordinates_end_y
-coordinates_end_x
-coordinates_start_y
-coordinates_start_x
