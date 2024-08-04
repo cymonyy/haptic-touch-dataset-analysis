@@ -1,8 +1,0 @@
-distance
-acceleration_euclidean_min
-velocity_euclidean_mean
-velocity_euclidean_max
-coordinates_end_y
-coordinates_end_x
-coordinates_start_y
-coordinates_start_x
